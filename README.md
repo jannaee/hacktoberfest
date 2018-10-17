@@ -7,6 +7,13 @@ Let's start by saying who we are!
 ## Participants
 
 - Fernando González-Morales
+- Shoji Takashima
+- Jian Huang
+- Martin Smith
+- Sam Hennessy
+- Connor Brereton
+- Francesc Campoy
+- Derrick Gee
 
 ## Finding issues to fix
 
