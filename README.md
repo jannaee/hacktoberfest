@@ -6,6 +6,8 @@ Let's start by saying who we are!
 
 ## Participants
 
+
+- Bennett Dixon
 - Mikaela Gurney
 - Fernando González-Morales
 - Shoji Takashima
