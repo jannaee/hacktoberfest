@@ -5,8 +5,7 @@ A repository for [hacktoberfest](https://hacktoberfest.digitalocean.com/) 2018.
 Let's start by saying who we are!
 
 ## Participants
-
-This list is empty for now.
+- Victor Minh Nguyen
 
 ## Finding issues to fix
 
