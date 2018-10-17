@@ -1,12 +1,16 @@
-# Celebrating hacktoberfest with source{d}
+# Celebrating hacktoberfest with [source{d}](https://github.com/src-d)
 
 A repository for [hacktoberfest](https://hacktoberfest.digitalocean.com/) 2018.
 
 Let's start by saying who we are!
 
 ## Participants
+- Heidi Narasaki
 
-
+- Michael Klein
+- Jeremy Antonio @thejeremyantonio
+- Victor Minh Nguyen
+- Samie Azad
 - Arik Rosenthal
 - Bennett Dixon
 - Mikaela Gurney
@@ -19,6 +23,8 @@ Let's start by saying who we are!
 - Francesc Campoy
 - Derrick Gee
 - Jannaee Sick
+- Heggy Castañeda
+- Erin Song
 
 ## Finding issues to fix
 
