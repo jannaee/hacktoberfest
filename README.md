@@ -5,6 +5,7 @@ A repository for [hacktoberfest](https://hacktoberfest.digitalocean.com/) 2018.
 Let's start by saying who we are!
 
 ## Participants
+- Sam Hennessy
 
 - Connor Brereton
 - Francesc Campoy
