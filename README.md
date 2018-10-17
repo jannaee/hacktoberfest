@@ -18,6 +18,7 @@ Let's start by saying who we are!
 - Connor Brereton
 - Francesc Campoy
 - Derrick Gee
+- Jannaee Sick
 
 ## Finding issues to fix
 
