@@ -33,7 +33,7 @@ If you solve 200 PRs ... you still get one t-shirt.
 
 ## Community
 
-You can ask question in our #hacktoberfest source{d} Community slack channel - http://bit.ly/sourced-slack
+You can ask questions in our #hacktoberfest source{d} Community slack channel - http://bit.ly/sourced-slack
 
 Complete the form at https://go.sourced.tech/hacktoberfest  to make sure we take your participation into account. We’ll send you instructions for receiving your  limited edition source{d} t-shirt once Hacktoberfest is over.
 
