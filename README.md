@@ -7,6 +7,14 @@ Let's start by saying who we are!
 ## Participants
 
 - Mikaela Gurney
+- Fernando González-Morales
+- Shoji Takashima
+- Jian Huang
+- Martin Smith
+- Sam Hennessy
+- Connor Brereton
+- Francesc Campoy
+- Derrick Gee
 
 ## Finding issues to fix
 
@@ -19,7 +27,7 @@ The issues labeled `#hacktoberfest` can be found here: http://bit.ly/hacktoberfe
 
 If you get 3 PRs merged in a source{d} repo you'll get a t-shirt from source{d}.
 
-If you get 5 PRs merged labeld as `#hacktoberfest` in _any_ repo you'll get a hacktoberfest t-shirt.
+If you get 5 PRs merged labeled as `#hacktoberfest` in *any* repo you'll get a hacktoberfest t-shirt.
 
 If you solve 200 PRs ... you still get one t-shirt.
 
