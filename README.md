@@ -5,7 +5,7 @@ A repository for [hacktoberfest](https://hacktoberfest.digitalocean.com/) 2018.
 Let's start by saying who we are!
 
 ## Participants
-
+Michael Klein
 This list is empty for now.
 
 ## Finding issues to fix
