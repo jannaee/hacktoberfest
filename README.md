@@ -6,7 +6,7 @@ Let's start by saying who we are!
 
 ## Participants
 
-
+- Samie Azad
 - Arik Rosenthal
 - Bennett Dixon
 - Mikaela Gurney
