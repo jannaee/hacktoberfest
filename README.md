@@ -5,6 +5,8 @@ A repository for [hacktoberfest](https://hacktoberfest.digitalocean.com/) 2018.
 Let's start by saying who we are!
 
 ## Participants
+
+- Jeremy Antonio @thejeremyantonio
 - Victor Minh Nguyen
 - Samie Azad
 - Arik Rosenthal
