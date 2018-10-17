@@ -22,6 +22,8 @@ Let's start by saying who we are!
 - Connor Brereton
 - Francesc Campoy
 - Derrick Gee
+- Heggy Castañeda
+- Erin Song
 
 ## Finding issues to fix
 
