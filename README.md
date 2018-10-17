@@ -7,6 +7,10 @@ Let's start by saying who we are!
 ## Participants
 
 - Martin Smith
+- Sam Hennessy
+- Connor Brereton
+- Francesc Campoy
+- Derrick Gee
 
 ## Finding issues to fix
 
