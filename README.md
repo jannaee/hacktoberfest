@@ -6,7 +6,9 @@ Let's start by saying who we are!
 
 ## Participants
 
+
 - Arik Rosenthal
+- Bennett Dixon
 - Mikaela Gurney
 - Fernando González-Morales
 - Shoji Takashima
