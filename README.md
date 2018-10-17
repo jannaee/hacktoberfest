@@ -7,6 +7,7 @@ Let's start by saying who we are!
 ## Participants
 - Heidi Narasaki
 
+- Michael Klein
 - Jeremy Antonio @thejeremyantonio
 - Victor Minh Nguyen
 - Samie Azad
