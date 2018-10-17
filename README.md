@@ -6,7 +6,7 @@ Let's start by saying who we are!
 
 ## Participants
 
-This list is empty for now.
+- Jian Huang
 
 ## Finding issues to fix
 
