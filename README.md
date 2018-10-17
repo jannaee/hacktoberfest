@@ -6,6 +6,7 @@ Let's start by saying who we are!
 
 ## Participants
 
+- Connor Brereton
 - Francesc Campoy
 
 ## Finding issues to fix
