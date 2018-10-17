@@ -1,4 +1,4 @@
-# Celebrating hacktoberfest with source{d}
+# Celebrating hacktoberfest with [source{d}](https://github.com/src-d)
 
 A repository for [hacktoberfest](https://hacktoberfest.digitalocean.com/) 2018.
 
