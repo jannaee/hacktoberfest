@@ -6,6 +6,7 @@ Let's start by saying who we are!
 
 ## Participants
 
+- Shoji Takashima
 - Jian Huang
 - Martin Smith
 - Sam Hennessy
